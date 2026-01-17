@@ -32,6 +32,13 @@ Come find us on the [development community chat](https://zulip.com/development-c
 
 ## Getting started
 
+New contributor quick start
+Welcome! If you are looking to contribute to Zulip, here is how to hit the ground running:
+
+1.  **Read the Guide:** Start with our [guide for new contributors](https://zulip.readthedocs.io/en/latest/overview/contributing.html). It covers setting up your environment and our coding standards.
+2.  **Join the Community:** We hang out in the [Zulip development community server](https://chat.zulip.org/). Come introduce yourself!
+3.  **Find a Task:** Filter for issues labeled [good first issue](https://github.com/zulip/zulip/labels/good%20first%20issue) to find a task suited for beginners.
+
 - **Contributing code**. Check out our [guide for new
   contributors](https://zulip.readthedocs.io/en/latest/contributing/contributing.html)
   to get started. We have invested in making Zulip’s code highly
